@@ -3,15 +3,14 @@
     <pathseg>
       <anomaly lat="48.1147" lon="-1.6794"></anomaly>
 
-      <anomaly lat="47.4833" lon="-3.1167"></anomaly>
+      <anomaly lat="48.7788" lon="-3.0471"></anomaly>
 
-      <anomaly lat="47.6038" lon="-3.0267"></anomaly>
+      <anomaly lat="48.5428" lon="-2.9251"></anomaly>
 
-      <anomaly lat="47.4833" lon="-3.1167"></anomaly>
+      <anomaly lat="48.7788" lon="-3.0471"></anomaly>
 
-      <anomaly lat="47.4908" lon="-2.9177"></anomaly>
+      <anomaly lat="48.7738" lon="-2.6741"></anomaly>
 
-      <anomaly lat="47.4833" lon="-3.1167"></anomaly>
+      <anomaly lat="48.7788" lon="-3.0471"></anomaly>
     </pathseg>
-  </path>
-</gpx>
+</path>
